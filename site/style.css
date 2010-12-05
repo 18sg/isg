@@ -47,6 +47,9 @@ ul.menu {
 .menu li {
 	display: inline;
 	margin-left: 1.5em;
+}
+
+.menu li a {
 	color: #729fcf;
 }
 
