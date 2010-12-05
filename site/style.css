@@ -16,7 +16,6 @@
 	padding-right: 25px;
 	
 	float: left;
-	border-right: 1px solid #babdb6;
 	
 	color: #2e3436;
 }
@@ -27,6 +26,7 @@
 	padding-left: 25px;
 	
 	float: right;
+	border-left: 1px solid #babdb6;
 	
 	color: #555753;
 }
